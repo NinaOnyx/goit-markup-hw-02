@@ -87,6 +87,20 @@ body {
     background-color: #2F303A;
 
 }
+.second-section-style {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+.third-second-section {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
 .header-first-section {
     font-size: 44px;
     font-weight: 900;
@@ -113,6 +127,66 @@ body {
     text-align: center;
     letter-spacing: 0.06em;
     color: #FFFFFF;
+}
+.homepage-footer-box {
+    background-color: #2f303a;
+    padding: 60px 0px;
+}
+.homepage-footer-style {
+    max-width: 1170px;
+    margin: 0px auto;
+}
+.homepage-footer-webstudio-color {
+    font-family: 'Raleway', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    display: inline-block;
+    color: white;
+}
+.homepage-footer-adress {
+    display: flex;
+}
+.homepage-footer-link {
+   margin: 10px 0px; 
+}
+.homepage-adress-maps {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.homepage-adress-email {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+.homepage-adress-telephone {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+.homepage-adress-maps:hover {
+    color: var(--web-color);
+}
+.homepage-adress-email:hover {
+    color: var(--web-color);
+}
+.homepage-adress-telephone:hover {
+    color: var(--web-color);
+}
+.homepage-adress-maps:focus {
+    color: var(--web-color);
+}
+.homepage-adress-email:focus {
+    color: var(--web-color);
+}
+.homepage-adress-telephone:focus {
+    color: var(--web-color);
 }
 
 

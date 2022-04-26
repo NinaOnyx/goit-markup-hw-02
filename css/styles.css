@@ -50,6 +50,9 @@ body {
 .stud-style:hover {
     color: var(--web-color);
 }
+.active {
+    color: #2196F3;
+}
 .portpholio:hover {
     color: var(--web-color);
 }
@@ -159,6 +162,9 @@ body {
     line-height: 24px;
     letter-spacing: 0.03em;
     color: #757575;
+}
+.third-section {
+    padding-bottom: 94px;
 }
 .third-section-title {
     font-weight: 700;
